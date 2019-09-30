@@ -1,2 +1,2 @@
 # HackerNews_WebScrape
-web scraping hacker news. 
+web scraping hacker news using Python
